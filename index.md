@@ -11,6 +11,7 @@ In this page you will find links to some of my repos, data analyses and projects
 + Pokemon Dual Types Analysis: [Analysis](http://juandes.github.io/PokemonDualTypeAnalysis/docs/dual_types_analysis) | [Home Page] (http://juandes.github.io/PokemonDualTypeAnalysis/) | [Repo](https://github.com/juandes/PokemonDualTypeAnalysis)
 
 ### Data related projects
++ Doing Machine Learning (K Nearest Neighbors) in a Messenger Chatbot: [Article](https://chatbotnewsdaily.com/doing-machine-learning-k-nearest-neighbors-in-a-messenger-chatbot-58f0d261a17f#.envrbgasq) | [Repo](https://github.com/juandes/knnbot-messenger-bot)
 + A look at some Tweets from Thanksgiving 2015: [Report](http://juandes.github.io/thanksgiving-tweets) | [Repo](https://github.com/juandes/thanksgiving-tweets)
 + A look at the adjusting closing price of stocks from January 1, 2015 to September 28, 2015 - a programming assignment: [Report](http://juandes.github.io/Stocks-StandardDeviation-Assignment) | [Repo](https://github.com/juandes/Stocks-StandardDeviation-Assignment)
 + San Francisco Crime Classification - a Kaggle Competition 
@@ -28,6 +29,3 @@ In this page you will find links to some of my repos, data analyses and projects
 + Data Analysis on Hadoop-finding tools and applications for Big Data challenges (my M.Sc. thesis): [Thesis](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-260557)
 + Exploring the Titanic survivors’ data set - a machine learning approach: [Paper](http://juandes.github.io/papers/TitanicReport.pdf)
 + Breaking CAPTCHA using Neural Network: [Paper](http://juandes.github.io/papers/Captcha_ANN.pdf)
-
-### Massive Open Online Courses (MOOC) material
-Coming soon...
