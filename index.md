@@ -7,7 +7,7 @@ In this page you will find links to some of my repos, data analyses and projects
 + A time series analysis about the crime in Puerto Rico from the year 2007 to 2014: [Analysis](http://juandes.github.io/pr-crime-timeseries/docs/report.html), [Repo](https://github.com/juandes/pr-crime-timeseries)
 + An approach to classify the races of characters from Lord of the Rings using their names as feature and naive Bayes: [Analysis](http://juandes.github.io/lotr-names-classification/), [Repo](https://github.com/juandes/lotr-names-classification)
 + Guild Wars 2 PvP Data Analysis: [Analysis](http://juandes.github.io/GW2PvPAnalysis/docs/gw2_pvp_analysis),[Repo](https://github.com/juandes/GW2PvPAnalysis)
- + Guild Wars 2 PvP Analysis - machine learning on Spark: [Analysis](http://juandes.github.io/GW2PvPAnalysis-Spark/), [Repo] (https://github.com/juandes/GW2PvPAnalysis-Spark)
+ + Guild Wars 2 PvP Analysis - machine learning on Spark: [Analysis](http://juandes.github.io/GW2PvPAnalysis-Spark/), [Repo](https://github.com/juandes/GW2PvPAnalysis-Spark)
 + Pokemon Dual Types Analysis: [Analysis](http://juandes.github.io/PokemonDualTypeAnalysis/docs/dual_types_analysis), [Repo](https://github.com/juandes/PokemonDualTypeAnalysis)
 
 ### Data related projects
