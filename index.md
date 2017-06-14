@@ -2,8 +2,8 @@
 In this page you will find links to some of my repos, data analyses and projects I have done.
 
 ### Data Analysis
-+ Is my Spotify music boring? An analysis involving music, data, and machine learning | 28.05.2017 : [Report](https://medium.com/towards-data-science/is-my-spotify-music-boring-an-analysis-involving-music-data-and-machine-learning-47550ae931de), [Repo](https://github.com/juandes/spotify-audio-features-data-experiment)
-+ Pokemon, Colors, and Deep Learning | 07.11.2016 : [Analysis](https://juandes.com/pokemon-colors-and-deep-learning-95fb715be46#.mpyz7rltg), [Repo](https://github.com/juandes/PokemonTypesDeepLearning)
++ Is my Spotify music boring? An analysis involving music, data, and machine learning (28.05.2017) : [Report](https://medium.com/towards-data-science/is-my-spotify-music-boring-an-analysis-involving-music-data-and-machine-learning-47550ae931de), [Repo](https://github.com/juandes/spotify-audio-features-data-experiment)
++ Pokemon, Colors, and Deep Learning (07.11.2016) : [Analysis](https://juandes.com/pokemon-colors-and-deep-learning-95fb715be46#.mpyz7rltg), [Repo](https://github.com/juandes/PokemonTypesDeepLearning)
 + 9 days of Pokemon Go - a statistical analysis: [Analysis](https://juandes.com/9-days-of-pokemon-go-a-statistical-analysis-3bbad8aaedc2#.xuxs32nnz), [Repo](https://github.com/juandes/PokemonGo9DaysAnalysis) 
 + A time series analysis about the crime in Puerto Rico from the year 2007 to 2014: [Analysis](http://juandes.github.io/pr-crime-timeseries/docs/report.html), [Repo](https://github.com/juandes/pr-crime-timeseries)
 + An approach to classify the races of characters from Lord of the Rings using their names as feature and naive Bayes: [Analysis](http://juandes.github.io/lotr-names-classification/), [Repo](https://github.com/juandes/lotr-names-classification)
