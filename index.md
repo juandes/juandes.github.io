@@ -26,7 +26,9 @@ In this page you will find links to some of my repos, data analyses and projects
 ### Data Platforms
 + Pokemon API using Python, Flask and MongoDB: [Overview](http://juandes.github.io/PokemonAPI-AnalyticsPlatform/), [Repo](https://github.com/juandes/PokemonAPI-AnalyticsPlatform)
 
+### Talks given
++ Antispam and Machine Learning at LOVOO at Berlin Buzzwords 2017, Berlin, Germany (12.06.2017): (Presentation)[https://www.youtube.com/watch?v=LKjQyDEzF7E]
++ Antispam and Machine Learning at LOVOO at Big Data in Business Workshop 2017 (16.06.2017), Leipzig, Germany.
+
 ### Other work
 + Data Analysis on Hadoop-finding tools and applications for Big Data challenges (my M.Sc. thesis): [Thesis](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-260557)
-+ Exploring the Titanic survivors’ data set - a machine learning approach: [Paper](http://juandes.github.io/papers/TitanicReport.pdf)
-+ Breaking CAPTCHA using Neural Network: [Paper](http://juandes.github.io/papers/Captcha_ANN.pdf)
