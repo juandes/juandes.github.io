@@ -27,7 +27,7 @@ In this page you will find links to some of my repos, data analyses and projects
 + Pokemon API using Python, Flask and MongoDB: [Overview](http://juandes.github.io/PokemonAPI-AnalyticsPlatform/), [Repo](https://github.com/juandes/PokemonAPI-AnalyticsPlatform)
 
 ### Talks given
-+ Antispam and Machine Learning at LOVOO at Berlin Buzzwords 2017, Berlin, Germany (12.06.2017): (Presentation)[https://www.youtube.com/watch?v=LKjQyDEzF7E]
++ Antispam and Machine Learning at LOVOO at Berlin Buzzwords 2017, Berlin, Germany (12.06.2017): [Presentation](https://www.youtube.com/watch?v=LKjQyDEzF7E)
 + Antispam and Machine Learning at LOVOO at Big Data in Business Workshop 2017 (16.06.2017), Leipzig, Germany.
 
 ### Other work
