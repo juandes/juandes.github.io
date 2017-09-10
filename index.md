@@ -1,5 +1,4 @@
-### Welcome to my GitHub Page.
-In this page you will find links to some of my repos, data analyses and projects I have done.
+### Juan De Dios Santos
 
 ### Data Analysis
 + Is my Spotify music boring? An analysis involving music, data, and machine learning (28.05.2017) : [Report](https://medium.com/towards-data-science/is-my-spotify-music-boring-an-analysis-involving-music-data-and-machine-learning-47550ae931de), [Repo](https://github.com/juandes/spotify-audio-features-data-experiment)
