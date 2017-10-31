@@ -1,6 +1,7 @@
 ### Juan De Dios Santos
 
 ### Data Analysis
++ Discovering similarities across my Spotify music using data, clustering and visualization (01.10.2017): [Report](https://medium.com/towards-data-science/discovering-similarities-across-my-spotify-music-using-data-clustering-and-visualization-52b58e6f547b), [Repo](https://github.com/juandes/audio-features-unsupervised-learning)
 + Is my Spotify music boring? An analysis involving music, data, and machine learning (28.05.2017) : [Report](https://medium.com/towards-data-science/is-my-spotify-music-boring-an-analysis-involving-music-data-and-machine-learning-47550ae931de), [Repo](https://github.com/juandes/spotify-audio-features-data-experiment)
 + Pokemon, Colors, and Deep Learning (07.11.2016) : [Analysis](https://juandes.com/pokemon-colors-and-deep-learning-95fb715be46#.mpyz7rltg), [Repo](https://github.com/juandes/PokemonTypesDeepLearning)
 + 9 days of Pokemon Go - a statistical analysis: [Analysis](https://juandes.com/9-days-of-pokemon-go-a-statistical-analysis-3bbad8aaedc2#.xuxs32nnz), [Repo](https://github.com/juandes/PokemonGo9DaysAnalysis) 
@@ -26,7 +27,7 @@
 + Pokemon API using Python, Flask and MongoDB: [Overview](http://juandes.github.io/PokemonAPI-AnalyticsPlatform/), [Repo](https://github.com/juandes/PokemonAPI-AnalyticsPlatform)
 
 ### Talks given
-+ Antispam and Machine Learning at LOVOO at Berlin Buzzwords 2017, Berlin, Germany (12.06.2017): [Presentation](https://www.youtube.com/watch?v=LKjQyDEzF7E)
++ Antispam and Machine Learning at LOVOO at Berlin Buzzwords 2017, Berlin, Germany (12.06.2017): [Overview and presentation](https://berlinbuzzwords.de/17/session/anti-spam-and-machine-learning-lovoo)
 + Antispam and Machine Learning at LOVOO at Big Data in Business Workshop 2017 (16.06.2017), Leipzig, Germany.
 
 ### Other work
