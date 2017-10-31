@@ -1,7 +1,7 @@
 title: Juan De Dios Santos
 description: 
 google_analytics: UA-67503215-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
