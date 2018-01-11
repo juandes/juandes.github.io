@@ -27,7 +27,7 @@
 + Pokemon API using Python, Flask and MongoDB: [Overview](http://juandes.github.io/PokemonAPI-AnalyticsPlatform/), [Repo](https://github.com/juandes/PokemonAPI-AnalyticsPlatform)
 
 ### Talks given
-+ Why does my girlfriend dislike my music at PyData Warsaw 2017, Warsaw, Poland (19.10.2017): [Overview] (https://pydata.org/warsaw2017/schedule/presentation/36/), [Presentation] (https://youtu.be/jNIVD40bEdA)
++ Why does my girlfriend dislike my music at PyData Warsaw 2017, Warsaw, Poland (19.10.2017): [Overview](https://pydata.org/warsaw2017/schedule/presentation/36/), [Presentation](https://youtu.be/jNIVD40bEdA)
 + Antispam and Machine Learning at LOVOO at Berlin Buzzwords 2017, Berlin, Germany (12.06.2017): [Overview and presentation](https://berlinbuzzwords.de/17/session/anti-spam-and-machine-learning-lovoo)
 + Antispam and Machine Learning at LOVOO at Big Data in Business Workshop 2017 (16.06.2017), Leipzig, Germany.
 
