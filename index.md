@@ -12,6 +12,7 @@
 + Pokemon Dual Types Analysis: [Analysis](http://juandes.github.io/PokemonDualTypeAnalysis/docs/dual_types_analysis), [Repo](https://github.com/juandes/PokemonDualTypeAnalysis)
 
 ### Data related projects
++ Detecting Pikachu on Android using Tensorflow Object Detection (23.01.2018): [Article](https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd), [Repo](https://github.com/juandes/pikachu-detection)
 + Doing Machine Learning (K Nearest Neighbors) in a Messenger Chatbot: [Article](https://chatbotnewsdaily.com/doing-machine-learning-k-nearest-neighbors-in-a-messenger-chatbot-58f0d261a17f#.envrbgasq), [Repo](https://github.com/juandes/knnbot-messenger-bot)
 + A look at some Tweets from Thanksgiving 2015: [Report](http://juandes.github.io/thanksgiving-tweets), [Repo](https://github.com/juandes/thanksgiving-tweets)
 + A look at the adjusting closing price of stocks from January 1, 2015 to September 28, 2015 - a programming assignment: [Report](http://juandes.github.io/Stocks-StandardDeviation-Assignment), [Repo](https://github.com/juandes/Stocks-StandardDeviation-Assignment)
