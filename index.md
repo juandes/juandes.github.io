@@ -12,6 +12,7 @@
 + Pokemon Dual Types Analysis: [Analysis](http://juandes.github.io/PokemonDualTypeAnalysis/docs/dual_types_analysis), [Repo](https://github.com/juandes/PokemonDualTypeAnalysis)
 
 ### Data related projects
++ Detection Pikachu in videos using Tensorflow Object Detection (13.05.2018): [Article](https://towardsdatascience.com/detecting-pikachu-in-videos-using-tensorflow-object-detection-cd872ac42c1d), [Repo](https://github.com/juandes/pikachu-detection)
 + Detecting Pikachu on Android using Tensorflow Object Detection (23.01.2018): [Article](https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd), [Repo](https://github.com/juandes/pikachu-detection)
 + Doing Machine Learning (K Nearest Neighbors) in a Messenger Chatbot: [Article](https://chatbotnewsdaily.com/doing-machine-learning-k-nearest-neighbors-in-a-messenger-chatbot-58f0d261a17f#.envrbgasq), [Repo](https://github.com/juandes/knnbot-messenger-bot)
 + A look at some Tweets from Thanksgiving 2015: [Report](http://juandes.github.io/thanksgiving-tweets), [Repo](https://github.com/juandes/thanksgiving-tweets)
@@ -28,6 +29,9 @@
 + Pokemon API using Python, Flask and MongoDB: [Overview](http://juandes.github.io/PokemonAPI-AnalyticsPlatform/), [Repo](https://github.com/juandes/PokemonAPI-AnalyticsPlatform)
 
 ### Talks given
++ Lifting Antispam to the Cloud and Beyond at Berlin Buzzwords 2018 (11.06.2018): [Overview](https://pydata.org/amsterdam2018/schedule/presentation/1/)
++ Detecting Pikachu on Android (and more!) using TensorFlow Object Detection API at PyData Amsterdam 2018 (26.05.2018): [Overview](https://pydata.org/amsterdam2018/schedule/presentation/1/)
++ Why does my girlfriend dislike my music at MLDD Meetup (20.03.2018): [Overview](https://www.meetup.com/MLDD-Machine-Learning-Dresden/events/247865381/?read=1&_xtd=gatlbWFpbF9jbGlja9oAJDcyMmE4ZmZkLWQwZWMtNDBjOS04MzljLTI0MWQ1ZTFmZDBjMw&_af=event&_af_eid=247865381&https=on&_cookie-check=eAIy6JZjbNA4gr-Q)
 + Why does my girlfriend dislike my music at PyData Warsaw 2017, Warsaw, Poland (19.10.2017): [Overview](https://pydata.org/warsaw2017/schedule/presentation/36/), [Presentation](https://youtu.be/jNIVD40bEdA)
 + Antispam and Machine Learning at LOVOO at Berlin Buzzwords 2017, Berlin, Germany (12.06.2017): [Overview and presentation](https://berlinbuzzwords.de/17/session/anti-spam-and-machine-learning-lovoo)
 + Antispam and Machine Learning at LOVOO at Big Data in Business Workshop 2017 (16.06.2017), Leipzig, Germany.
